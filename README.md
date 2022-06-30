@@ -12,3 +12,8 @@ Hundreds of movies are released every year, but not all are profitable. The aim 
 * Numpy
 * Matplotlib
 * csv
+
+## Some Findings
+Movie Popularity
+
+![Screenshot%202022-06-26%2015.21.28.png](attachment:Screenshot%202022-06-26%2015.21.28.png)
